@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dearestchoice
-- 👀 I’m interested in blockchain developement
-- 🌱 I’m currently learning smart contract developement
-- 💞️ I’m looking to collaborate on blockchain platforms,front end developers,community...
+- 👋 Hi, I’m @Web3choice
+- 👀 I’m a blockchain developer
+- 🌱 I'm learning smart contract developement
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @web3choice on telegram
 
 <!---
